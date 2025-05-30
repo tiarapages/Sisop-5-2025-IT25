@@ -4,8 +4,9 @@
 
 Nama | NRP
 --- | ---
-Amoes Noland | 5027231028
-Rafi' Afnaan Fathurrahman | 5027231040
+Tiara Putri Prasetya | 5027231013
+Danuja Prasasta Bastu | 5027231037
+Imam Mahmud Dalil Fauzan | 5027231100
 
 ## Daftar Isi
 
